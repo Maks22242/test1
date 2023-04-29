@@ -1,6 +1,6 @@
 #include <iostream>
-using namespace std;
+
 
 int main() {
-    cout<<"hhh"l
+    std::cout<<"hhh"l
 }
